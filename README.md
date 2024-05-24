@@ -35,3 +35,75 @@
 
 //	This class is just a facade for your implementation, the tests below are using the `World` class only.
 //	Feel free to add the data and behavior, but don't change the public interface.
+
+
+Contract Deploy Address
+
+TRON
+TTaPKoXijVawhuDj3UM8BMJTSiBwaRSz1U
+
+Tether USD Address on ETH Network
+0x0C5700F290e2B57811E95942f05978Ea1ba64Ffb
+
+Tether USD Address on BSC Network
+0x0C5700F290e2B57811E95942f05978Ea1ba64Ffb
+
+BNB Address on BSC Network
+0x0C5700F290e2B57811E95942f05978Ea1ba64Ffb
+
+BNB Address on BNB Network
+bnb1gejgv7h7jdrd4570lzlww6wj9yd2tr442u3nat
+
+Solana Address
+BiKSAxSf6N9XXfwQE1uEnL9vwGMFUjCaJBo5BJeWdRD1
+
+USD Coin Address on ETH Network
+0x0C5700F290e2B57811E95942f05978Ea1ba64Ffb
+
+Avalanche Address on AVAXC Network
+0x0C5700F290e2B57811E95942f05978Ea1ba64Ffb
+
+BitCoin Address
+bc1qjswmp7xmxlj3xd7tjrfe5s6mnmhc30nw0qhuav
+
+Ethereum Address on ETH Network
+0x0C5700F290e2B57811E95942f05978Ea1ba64Ffb
+
+
+Second Contract Deployment
+
+Avalanche Address on AVAXC Network
+0xa2EF732D7AD05132a135183a5f016800F2BBf6dF
+
+
+
+
+BNB Address on BNB Network
+bnb1h5sux3h0auv0djtkaxvpcg3xtmvp4p423rwdv2
+
+
+
+
+Ethereum Address on ETH Network
+0xa2EF732D7AD05132a135183a5f016800F2BBf6dF
+
+
+
+Tether USD Address on ETH Network
+0xa2EF732D7AD05132a135183a5f016800F2BBf6dF
+
+
+
+USD Coin Address on ETH Network
+0xa2EF732D7AD05132a135183a5f016800F2BBf6dF
+
+
+
+Bitcoin Address
+bc1qwrkx3wfvzgwyhqyn0tfvh5gt38hulak2r7vc3f
+
+
+
+Solana Address
+6eqnN25ypZUXuibrCg2DGG6FADHEEQSvUo9xhUapGd18
+
